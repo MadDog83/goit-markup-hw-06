@@ -961,3 +961,17 @@ margin-left: 80px;
     visibility: hidden;
     pointer-events: none;
 }
+
+@media screen and (max-width: 428px) {
+    
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width:1158px ) {
+
+}
+
+
