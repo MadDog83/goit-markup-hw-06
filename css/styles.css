@@ -546,7 +546,6 @@ padding-bottom: 120px;
 @media only screen and (max-width: 1157px) {
     .webstudio {
         display: none;
-
     }
 }
 
@@ -582,12 +581,9 @@ padding-bottom: 120px;
 
 .team {
     background-color: #F4F4FD;
-    /* padding: 120px 0; */
     padding: 96px 0;
-
 }
 
-  /* Section team */
   @media only screen and (min-width: 768px) and (max-width: 1157px) {
 .team {
     max-width: 768px;
@@ -1018,7 +1014,6 @@ padding-bottom: 120px;
 }
 
 .footer-par {
-    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
