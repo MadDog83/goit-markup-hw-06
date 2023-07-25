@@ -75,7 +75,8 @@ h1,h2,h3,h4,h5,h6,p {
     max-width: 428px;
     padding-left: 16px;
     padding-right: 16px;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
 
     /* outline: 2px solid red;
     outline-offset: -2px; */
@@ -762,7 +763,7 @@ transform: translateY(0%);
       }
 }
 
-@media only screen and (min-width: 1159px) {
+@media only screen and (min-width: 1158px) {
   .project-list {
     column-gap: 24px;
   }
@@ -812,7 +813,7 @@ transform: translateY(0%);
 }
 
 .project-image {
-    max-width: 312px;
+    max-width: 290px;
     height: auto;
 }
 
